@@ -28,3 +28,31 @@ Answers;
 -[2,6,16,22,18,27]
 
 -[2,6,16,18,22,27]
+
+2.
+
+Big O notation O(n^2)
+
+3.
+
+Average case: The number we are looking for is in the middle.
+
+Worst case: The number we are looking for is at the end.
+
+Best case: The number we are looking for is at the beginning.
+
+4.
+
+Average case
+
+5.
+
+[7,3,5,8,2,9,4,15,6] -original
+
+[2,3,5,8,7,9,4,15,6] - first step
+
+[2,3,4,8,7,9,5,15,6]
+
+[2,3,4,5,7,9,8,15,6]
+
+[2,3,4,5,6,9,8,15,7] -fourth step
