@@ -8,11 +8,10 @@ Requested;
 1. Show the steps of sorting the array above
 2. Big-O notation.
 3. Write three cases below
-Average case: 
-Worst case: 
-Best case: .
-What case does the number 18 fall into after the array is sorted?
-
-Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
+      Average case: 
+      Worst case: 
+      Best case: .
+4. What case is correct for the number 18 after the array is sorted?
+5. Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
 
 Answers;
